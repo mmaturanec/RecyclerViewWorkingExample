@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">recylcerviewExample</string>
+
+    <string-array name="amino_acids_full_txt">
+        <item>Alanine</item>
+        <item>Arginine</item>
+        <item>Asparagine</item>
+        <item>Cysteine</item>
+        <item>Glutamic Acid</item>
+        <item>Glutamine</item>
+        <item>Glycine</item>
+        <item>Histidine</item>
+        <item>Isoleucine</item>
+        <item>Leucine</item>
+    </string-array>
+    <string-array name="amino_acids_three_letter_txt">
+        <item>Ala</item>
+        <item>Arg</item>
+        <item>Asp</item>
+        <item>Cys</item>
+        <item>Glu</item>
+        <item>Gln</item>
+        <item>Glye</item>
+        <item>His</item>
+        <item>Iso</item>
+        <item>Leu</item>
+    </string-array>
+    <string-array name="amino_acids_one_letter_txt">
+        <item>A</item>
+        <item>R</item>
+        <item>N</item>
+        <item>D</item>
+        <item>C</item>
+        <item>E</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>L</item>
+    </string-array>
+</resources>
